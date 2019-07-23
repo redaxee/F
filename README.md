@@ -8,12 +8,24 @@
 
 
 Install
+
  Pkg install lolcat
+ 
+ 
  pkg install ruby
+
+
  pkg install git
+ 
  git clone https://github.com/redaxee/F371
+ 
+ 
  cd F371
+ 
+ 
  ls
+ 
+ 
  sh F.sh
 
 
